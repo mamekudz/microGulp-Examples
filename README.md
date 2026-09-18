@@ -1,10 +1,10 @@
-# microgulp-examples
+# microGulp-Examples
 
 > **Coming soon — example under development.** This repository is planning scaffolding only. There is no runnable implementation, package, download, install command, test suite or µGulp Ready claim yet.
 
 Practical Gulp examples and reusable building blocks for releases, packaging, documentation and more — with optional µGulp dashboard integration.
 
-Repository: [github.com/mamekudz/microgulp-examples](https://github.com/mamekudz/microgulp-examples)
+Repository: [github.com/mamekudz/microGulp-Examples](https://github.com/mamekudz/microGulp-Examples)
 
 ## Status
 
