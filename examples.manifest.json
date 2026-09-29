@@ -1,0 +1,68 @@
+{
+	"version": 1,
+	"collection": {
+		"name": "microGulp-Examples",
+		"repository": "https://github.com/mamekudz/microGulp-Examples",
+		"visibility": "public",
+		"role": "superproject"
+	},
+	"examples": [
+		{
+			"id": "release-management",
+			"path": "release-management",
+			"repository": "https://github.com/mamekudz/microGulp-example-release-management",
+			"remoteStatus": "READY",
+			"visibility": "public",
+			"defaultBranch": "main",
+			"pinnedCommit": "90198ecd27ba7106403f8dde6183ccd39702aa4f"
+		},
+		{
+			"id": "npm-statistics",
+			"path": "npm-statistics",
+			"repository": "https://github.com/mamekudz/microGulp-example-npm-statistics",
+			"remoteStatus": "READY",
+			"visibility": "public",
+			"defaultBranch": "main",
+			"pinnedCommit": "29cbff97c6e01f3e38c4d5faadc4e1d75ff84550"
+		},
+		{
+			"id": "dynamic-task-names",
+			"path": "dynamic-task-names",
+			"repository": "https://github.com/mamekudz/microGulp-example-dynamic-task-names",
+			"remoteStatus": "READY",
+			"visibility": "public",
+			"defaultBranch": "main",
+			"pinnedCommit": "987078d0203db7d417e65214ebc24f02fa9caede"
+		},
+		{
+			"id": "build-variants",
+			"path": "build-variants",
+			"repository": "https://github.com/mamekudz/microGulp-example-build-variants",
+			"remoteStatus": "READY",
+			"visibility": "public",
+			"defaultBranch": "main",
+			"pinnedCommit": "1c759b8d8162365ff2cab9e29f329d4ebaefff87"
+		},
+		{
+			"id": "multi-manuals",
+			"path": "multi-manuals",
+			"repository": "https://github.com/mamekudz/microGulp-example-multi-manuals",
+			"remoteStatus": "READY",
+			"visibility": "public",
+			"defaultBranch": "main",
+			"pinnedCommit": "2a2f6dd320f413ce1710a698dbe4f3e2166bcef6"
+		}
+	],
+	"pending": [
+		{
+			"id": "installer-pipeline",
+			"path": "installer-pipeline",
+			"remoteStatus": "REMOTE_REQUIRED"
+		},
+		{
+			"id": "structured-build-reports",
+			"path": "structured-build-reports",
+			"remoteStatus": "REMOTE_REQUIRED"
+		}
+	]
+}
