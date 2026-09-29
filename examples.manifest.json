@@ -13,8 +13,7 @@
 			"repository": "https://github.com/mamekudz/microGulp-example-release-management",
 			"remoteStatus": "READY",
 			"visibility": "public",
-			"defaultBranch": "main",
-			"pinnedCommit": "90198ecd27ba7106403f8dde6183ccd39702aa4f"
+			"defaultBranch": "main"
 		},
 		{
 			"id": "npm-statistics",
