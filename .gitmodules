@@ -1,15 +1,27 @@
-[submodule "release-management"]
-	path = release-management
-	url = https://github.com/mamekudz/microGulp-example-release-management.git
-[submodule "npm-statistics"]
-	path = npm-statistics
-	url = https://github.com/mamekudz/microGulp-example-npm-statistics.git
+[submodule "sound-atlases"]
+	path = sound-atlases
+	url = https://github.com/mamekudz/microGulp-example-sound-atlases.git
 [submodule "dynamic-task-names"]
 	path = dynamic-task-names
 	url = https://github.com/mamekudz/microGulp-example-dynamic-task-names.git
 [submodule "build-variants"]
 	path = build-variants
 	url = https://github.com/mamekudz/microGulp-example-build-variants.git
+[submodule "gulpfile-upgrade"]
+	path = gulpfile-upgrade
+	url = https://github.com/mamekudz/microGulp-example-gulpfile-upgrade.git
+[submodule "microcss-generation"]
+	path = microcss-generation
+	url = https://github.com/mamekudz/microGulp-example-microcss-generation.git
 [submodule "multi-manuals"]
 	path = multi-manuals
 	url = https://github.com/mamekudz/microGulp-example-multi-manuals.git
+[submodule "nas-backup"]
+	path = nas-backup
+	url = https://github.com/mamekudz/microGulp-example-nas-backup.git
+[submodule "npm-statistics"]
+	path = npm-statistics
+	url = https://github.com/mamekudz/microGulp-example-npm-statistics.git
+[submodule "release-management"]
+	path = release-management
+	url = https://github.com/mamekudz/microGulp-example-release-management.git

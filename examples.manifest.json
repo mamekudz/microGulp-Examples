@@ -1,67 +1,104 @@
 {
-	"version": 1,
-	"collection": {
-		"name": "microGulp-Examples",
-		"repository": "https://github.com/mamekudz/microGulp-Examples",
-		"visibility": "public",
-		"role": "superproject"
-	},
-	"examples": [
-		{
-			"id": "release-management",
-			"path": "release-management",
-			"repository": "https://github.com/mamekudz/microGulp-example-release-management",
-			"remoteStatus": "READY",
-			"visibility": "public",
-			"defaultBranch": "main"
-		},
-		{
-			"id": "npm-statistics",
-			"path": "npm-statistics",
-			"repository": "https://github.com/mamekudz/microGulp-example-npm-statistics",
-			"remoteStatus": "READY",
-			"visibility": "public",
-			"defaultBranch": "main",
-			"pinnedCommit": "29cbff97c6e01f3e38c4d5faadc4e1d75ff84550"
-		},
-		{
-			"id": "dynamic-task-names",
-			"path": "dynamic-task-names",
-			"repository": "https://github.com/mamekudz/microGulp-example-dynamic-task-names",
-			"remoteStatus": "READY",
-			"visibility": "public",
-			"defaultBranch": "main",
-			"pinnedCommit": "987078d0203db7d417e65214ebc24f02fa9caede"
-		},
-		{
-			"id": "build-variants",
-			"path": "build-variants",
-			"repository": "https://github.com/mamekudz/microGulp-example-build-variants",
-			"remoteStatus": "READY",
-			"visibility": "public",
-			"defaultBranch": "main",
-			"pinnedCommit": "1c759b8d8162365ff2cab9e29f329d4ebaefff87"
-		},
-		{
-			"id": "multi-manuals",
-			"path": "multi-manuals",
-			"repository": "https://github.com/mamekudz/microGulp-example-multi-manuals",
-			"remoteStatus": "READY",
-			"visibility": "public",
-			"defaultBranch": "main",
-			"pinnedCommit": "2a2f6dd320f413ce1710a698dbe4f3e2166bcef6"
-		}
-	],
-	"pending": [
-		{
-			"id": "installer-pipeline",
-			"path": "installer-pipeline",
-			"remoteStatus": "REMOTE_REQUIRED"
-		},
-		{
-			"id": "structured-build-reports",
-			"path": "structured-build-reports",
-			"remoteStatus": "REMOTE_REQUIRED"
-		}
-	]
+  "version": 1,
+  "collection": {
+    "name": "microGulp-Examples",
+    "repository": "https://github.com/mamekudz/microGulp-Examples",
+    "visibility": "public",
+    "role": "superproject"
+  },
+  "examples": [
+    {
+      "id": "sound-atlases",
+      "path": "sound-atlases",
+      "repository": "https://github.com/mamekudz/microGulp-example-sound-atlases",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "248c23fc966f870886111fb77aff3f5de8255f45"
+    },
+    {
+      "id": "dynamic-task-names",
+      "path": "dynamic-task-names",
+      "repository": "https://github.com/mamekudz/microGulp-example-dynamic-task-names",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "15ac256da1d2e4b15d6aa0c69e6ef7e55466994c"
+    },
+    {
+      "id": "build-variants",
+      "path": "build-variants",
+      "repository": "https://github.com/mamekudz/microGulp-example-build-variants",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "907efa698ab0385cb176f4d8e5a16ad36be7b9af"
+    },
+    {
+      "id": "gulpfile-upgrade",
+      "path": "gulpfile-upgrade",
+      "repository": "https://github.com/mamekudz/microGulp-example-gulpfile-upgrade",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "cd7b628e08645cd4029db83e379842bfcef922af"
+    },
+    {
+      "id": "microcss-generation",
+      "path": "microcss-generation",
+      "repository": "https://github.com/mamekudz/microGulp-example-microcss-generation",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "c6552e4012350cdac46b4efc95f4cf51274b372b"
+    },
+    {
+      "id": "multi-manuals",
+      "path": "multi-manuals",
+      "repository": "https://github.com/mamekudz/microGulp-example-multi-manuals",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "d6ca08d4eb09e4dfb04fda9940903bfefa1b4468"
+    },
+    {
+      "id": "nas-backup",
+      "path": "nas-backup",
+      "repository": "https://github.com/mamekudz/microGulp-example-nas-backup",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "7dbeecb9ab55b6f374c9314402250a63ee4682e3"
+    },
+    {
+      "id": "npm-statistics",
+      "path": "npm-statistics",
+      "repository": "https://github.com/mamekudz/microGulp-example-npm-statistics",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "8514f97a8cbe7686e058ae601744d8bd56a7ebf8"
+    },
+    {
+      "id": "release-management",
+      "path": "release-management",
+      "repository": "https://github.com/mamekudz/microGulp-example-release-management",
+      "remoteStatus": "READY",
+      "visibility": "public",
+      "defaultBranch": "main",
+      "pinnedCommit": "aa81dd7ac930a020ca44120233c5856db714f246"
+    }
+  ],
+  "pending": [
+    {
+      "id": "installer-pipeline",
+      "path": "installer-pipeline",
+      "remoteStatus": "REMOTE_REQUIRED"
+    },
+    {
+      "id": "structured-build-reports",
+      "path": "structured-build-reports",
+      "remoteStatus": "REMOTE_REQUIRED"
+    }
+  ]
 }
