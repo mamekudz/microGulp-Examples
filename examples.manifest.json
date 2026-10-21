@@ -14,7 +14,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "248c23fc966f870886111fb77aff3f5de8255f45"
+      "pinnedCommit": "74aea42a39f422b158f1e75d6432455eba63a171"
     },
     {
       "id": "dynamic-task-names",
@@ -23,7 +23,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "15ac256da1d2e4b15d6aa0c69e6ef7e55466994c"
+      "pinnedCommit": "3a4485028d5edd8764f8f82cdc6aa5a897c58399"
     },
     {
       "id": "build-variants",
@@ -32,7 +32,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "907efa698ab0385cb176f4d8e5a16ad36be7b9af"
+      "pinnedCommit": "d26a65d9da3cbaeccd2274d5eec46d32c139cd27"
     },
     {
       "id": "gulpfile-upgrade",
@@ -41,7 +41,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "cd7b628e08645cd4029db83e379842bfcef922af"
+      "pinnedCommit": "e6fd04ba10b9b377f956691163b489f2e7287ab7"
     },
     {
       "id": "microcss-generation",
@@ -50,7 +50,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "c6552e4012350cdac46b4efc95f4cf51274b372b"
+      "pinnedCommit": "65dd65bded48e216ef5e4fd881db09138f10f230"
     },
     {
       "id": "multi-manuals",
@@ -59,7 +59,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "d6ca08d4eb09e4dfb04fda9940903bfefa1b4468"
+      "pinnedCommit": "7097636148ea423bd8dd3080804a54a527ce7cca"
     },
     {
       "id": "nas-backup",
@@ -68,7 +68,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "7dbeecb9ab55b6f374c9314402250a63ee4682e3"
+      "pinnedCommit": "e4ea28913d2ca85eac1e68c5c19f7f54c95e7392"
     },
     {
       "id": "npm-statistics",
@@ -77,7 +77,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "8514f97a8cbe7686e058ae601744d8bd56a7ebf8"
+      "pinnedCommit": "63bb5f27baa90d074f9c44b3a92ddc7b9b1371c8"
     },
     {
       "id": "release-management",
@@ -86,7 +86,7 @@
       "remoteStatus": "READY",
       "visibility": "public",
       "defaultBranch": "main",
-      "pinnedCommit": "aa81dd7ac930a020ca44120233c5856db714f246"
+      "pinnedCommit": "b3884679ce5faca4f9142bbe2d1711b16d9f50c8"
     }
   ],
   "pending": [
